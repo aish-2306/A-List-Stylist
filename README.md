@@ -42,6 +42,8 @@ She's always there with a supportive message, a sprinkle of sparkle, and the per
 
 ## 🚀 Getting Started
 
+**Way to the Fashion Tech World(See you there✨!)**: https://v0-a-list-stylist-website.vercel.app
+
 Follow these steps to get your A-List Stylist project up and running locally.
 
 ### Prerequisites
